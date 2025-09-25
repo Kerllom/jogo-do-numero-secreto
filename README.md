@@ -73,7 +73,7 @@ jogo-numero-secreto/
 1. Acesse o jogo no seu navegador
 2. Escute a mensagem inicial (ou leia na tela)
 3. Digite um número entre 1 e 50
-4. Clique em "Chutar" ou pressione Enter
+4. Clique em "Chutar"
 5. Use as dicas para ajustar sua próxima tentativa
 6. Continue até acertar o número secreto!
 
